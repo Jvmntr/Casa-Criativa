@@ -1,0 +1,50 @@
+{% extends "layout.html" %}
+
+{% set bodyId = "page-ideas" %}
+
+{% block title %}
+    <title>Produtos - E-Loja</title>   
+{% endblock %}
+
+
+
+{% block content %}
+    <header>
+        <a href="/">       
+            <img src="src/logo.png" alt="Casa Criativa">
+        </a> 
+        <nav>
+            <li class="funfo"><a href="/">Inicio</a></li>
+            <li id="funfa" onclick="onOff()"><a href="#"></a>Nova Ideia</li>
+        </nav>
+    </header>
+        <section id="title">
+            <p>Em exibição</p>
+            <h1>Produtos</h1>
+        </section>
+        <main> 
+            <section id="ideas">
+                
+                {% for idea in ideas %}
+                    <div class="idea">
+                        <img src="{{idea.image}}"
+                        alt="Imagem de {{ideia.title}}">
+
+                    <div class="content">
+                        <h3>{{idea.title}}</h3>
+                        <p> {{idea.category}}</p>
+                        <div class="description">
+                            {{idea.description}}
+                        </div>
+                        <a href="{{idea.link}}" >Ir para a ideia</a>
+                    </div>
+                </div>
+                {% endfor %}
+
+            </section>
+        </main>
+        <footer>
+            Com  ❤ <a href="https://www.twitch.tv/jvmntr" target="blank"> RocketJonh</a>
+        </footer>
+        {% endblock %}
+
