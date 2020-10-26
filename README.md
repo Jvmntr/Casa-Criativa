@@ -1,4 +1,7 @@
-<h2 align="center">
+<h1 align="center">
+  Casa Criativa
+ </h1>
+  <h2 align="center">
   Sistema de cadastro de ideias com o intuito de tornar
 
   <br>
