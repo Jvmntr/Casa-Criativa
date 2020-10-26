@@ -28,7 +28,7 @@
 </ul>
 
 <h3>
-  <strong>⛓️ Dependências</strong>
+  ⛓️ Dependências
 </h3>
 
 <ul>
@@ -38,7 +38,9 @@
   <li> <strong> Sqlite3 </strong> </li>
 </ul>
 
-⚙️ Para rodar a aplicação:
+<h3>
+  ⚙️ Para rodar a aplicação:
+</h3>
 
 <ul>
   <li> Clone esse repositório. </li>
