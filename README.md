@@ -28,7 +28,7 @@
 </ul>
 
 <h3>
-  ⛓️ Dependências
+  <strong>⛓️ Dependências</strong>
 </h3>
 
 <ul>
