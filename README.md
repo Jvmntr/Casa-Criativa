@@ -43,10 +43,10 @@
 </h3>
 
 <ul>
-  <li> Clone esse repositório. </li>
-  <li> Execute npm install dentro da pasta criada. </li>
-  <li> Rode npm run dev. </li>
-  <li> Acesse a aplicação, localhost:3000. </li>
+  <li> <strong> Clone esse repositório. </strong> </li>
+  <li> <strong> Execute npm install dentro da pasta criada. </strong> </li>
+  <li> <strong> Rode npm run dev. </strong> </li>
+  <li> <strong> Acesse a aplicação, localhost:3000. </strong> </li>
 </ul>
 
 ---
