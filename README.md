@@ -1,5 +1,5 @@
 <h1 align="center">
-  Casa Criativa
+  🏠 Casa Criativa 🏠
  </h1>
   <h2 align="center">
   Sistema de cadastro de ideias com o intuito de tornar
@@ -9,7 +9,7 @@
 </h2>
 
 <h3>
-  Front-end
+  👨🏻‍💻 Front-end
 </h3>
 
 <ul>
@@ -19,7 +19,7 @@
 </ul>
 
 <h3>
-  Back-end
+  👨🏻‍💻 Back-end
 </h3>
 
 <ul>
@@ -28,7 +28,7 @@
 </ul>
 
 <h3>
-  Dependências
+  ⛓️ Dependências
 </h3>
 
 <ul>
@@ -38,21 +38,21 @@
   <li> <strong> Sqlite3 </strong> </li>
 </ul>
 
-### Para rodar a aplicação:
+⚙️ Para rodar a aplicação:
 
 <ul>
-<li> Clone esse repositório. </li>
-<li> Execute npm install dentro da pasta criada. </li>
-<li> Rode npm run dev. </li>
-<li> Acesse a aplicação, localhost:3000. </li>
+  <li> Clone esse repositório. </li>
+  <li> Execute npm install dentro da pasta criada. </li>
+  <li> Rode npm run dev. </li>
+  <li> Acesse a aplicação, localhost:3000. </li>
 </ul>
 
 ---
 
-**&copy; [Rocketseat](https://rocketseat.com.br/)**
+🚀 [Rocketseat](https://rocketseat.com.br/)
 
-**Instrutor:[Mayk Brito](https://github.com/maykbrito)**
+Instrutor:[Mayk Brito](https://github.com/maykbrito)
 
-## Licença
+Licença
 [MIT](LICENSE)
 
