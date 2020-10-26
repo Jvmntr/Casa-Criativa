@@ -39,14 +39,6 @@
 </ul>
 
 
-<h3 align="center">
- 🖼️ Imagens
-</h3>
-
-<img src="Prints/PrintL.png">
-<img src="Prints/PrintI.png">
-<img src="Prints/PrintM.png">
-
 <h3>
   ⚙️ Para rodar a aplicação:
 </h3>
@@ -57,6 +49,14 @@
   <li>  Rode <strong> npm run dev. </strong> </li>
   <li>  Acesse a aplicação, localhost:3000.  </li>
 </ul>
+
+<h3 align="center">
+ 🖼️ Imagens
+</h3>
+
+<img src="Prints/PrintL.png">
+<img src="Prints/PrintI.png">
+<img src="Prints/PrintM.png">
 
 ---
 
